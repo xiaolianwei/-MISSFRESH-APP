@@ -1,5 +1,7 @@
 # mall-app
 
+## 仅移动端展示
+
 ## Project setup
 ```
 npm install
